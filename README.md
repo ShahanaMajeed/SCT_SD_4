@@ -41,7 +41,6 @@ A graphical interface with:
 A short video demonstrating the working of the Universal Web Scraper is available.
 
 🎥 Watch here:  
-You can also check out the scraper and full details in my [LinkedIn post](https://www.linkedin.com/posts/shahana-m-a-a2113031a_skillcrafttechnology-softwaredevelopment-activity-7338181984726224896-1qJt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDSJLkB3ZmFJto10XX4UoRY3FuwvZt-mNo). *(Update this link if needed)*
-
+You can also check out the scraper and full details in my [LinkedIn post](https://www.linkedin.com/posts/shahana-m-a-a2113031a_sctabrsdabrtask4-skillcrafttechnology-softwaredevelopment-activity-7340787230220742657-_Bvw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFDSJLkB3ZmFJto10XX4UoRY3FuwvZv-mNo). 
 ### 🔗 Connect with Me  
 💼 [LinkedIn](https://www.linkedin.com/in/shahana-m-a-a2113031a)
